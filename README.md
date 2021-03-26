@@ -30,6 +30,6 @@ From the information gathered in this project, we could see that Airbnb is a goo
 
 It was a rich experience of learning! Feel free to collaborate!
 
-# Acknowledgments
+# Acknowledgements 
 
-The data used in this project was provided by the webpage http://insideairbnb.com/get-the-data.html.
+The datasets were provided by the website http://insideairbnb.com/get-the-data.html
