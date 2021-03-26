@@ -29,7 +29,3 @@ is the type of entire room or apartment.
 From the information gathered in this project, we could see that Airbnb is a good option to book a room in Rio de Janeiro.
 
 It was a rich experience of learning! Feel free to collaborate!
-
-# Acknowledgements 
-
-The datasets were provided by the website http://insideairbnb.com/get-the-data.html
